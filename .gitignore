@@ -3,3 +3,8 @@ out/
 tasks.py
 
 vcpkg*
+
+vcpkg-configuration.json
+
+.cache/
+
